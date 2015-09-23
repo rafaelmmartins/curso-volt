@@ -97,7 +97,7 @@ a:visited {
  
 .slide {
     position: relative;
-    padding: 25vh 10%;
+    padding: 25vh 10% 0;
     min-height: 100vh;
     width: 100vw;
     box-sizing: border-box;
@@ -117,7 +117,7 @@ a:visited {
 .title {
     width: 50%;
     padding: %;
-    border: 1px #c00 solid;
+    border: 10px #c00 solid;
     border-radius: 5px;
     background: rgba(240,230,220, .7);
     box-shadow: 0 0 8px rgba(0, 0, 0, .7);
